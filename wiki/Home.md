@@ -1,1 +1,1 @@
-TO jest home page
+To jest home page, kliknij w All żeby przeglądać co już jest. Ewentualnie `ls IIWiki\wiki`
