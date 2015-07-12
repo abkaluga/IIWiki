@@ -1,0 +1,1 @@
+Mamy support dla latexa $$ \frac{1}{2} $$
