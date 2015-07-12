@@ -1,6 +1,5 @@
-
 #Plan wikipedii
 
-    Złożonośc
-    Dolne ograniczenia
+  1. Złożoność
+  2. Dolne ograniczenia
 
